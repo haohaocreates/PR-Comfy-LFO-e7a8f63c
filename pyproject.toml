@@ -1,0 +1,14 @@
+[project]
+name = "comfy-lfo"
+description = "Nodes:LFO_Triangle, LFO_Sine, SawtoothNode, SquareNode, PulseNode. ComfyUI custom nodes to create Low Frequency Oscillators."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/richinsley/Comfy-LFO"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfy-LFO"
+Icon = ""
